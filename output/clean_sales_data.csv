@@ -1,0 +1,168 @@
+Order_ID,Date,Product,Quantity,Unit_Price,Region,Sales_Rep,Customer_Email,Discount,Total_Sales,Month,Month_Name,Quarter
+ORD068,2024-09-02,Laptop,16.0,66.43,South,Bob Johnson,customer67@email.com,0.18,871.5616000000001,9,September,3
+ORD042,2024-01-15,Monitor,5.0,50.13,West,Bob Johnson,customer41@email.com,0.0,250.65,1,January,1
+ORD063,2024-06-25,Webcam,12.0,68.53,North,John Doe,customer62@email.com,0.0,822.36,6,June,2
+ORD163,2024-09-24,USB Cable,4.0,127.44,East,Jane Smith,customer162@email.com,0.0,509.76,9,September,3
+ORD171,2024-05-24,Webcam,8.0,348.22,South,Jane Smith,customer170@email.com,0.15,2367.896,5,May,2
+ORD045,2024-08-26,Keyboard,17.0,385.19,East,Jane Smith,customer44@email.com,0.0,6548.23,8,August,3
+ORD123,2024-10-07,Headphones,9.0,150.46,West,Jane Smith,customer122@email.com,0.02,1327.0572,10,October,4
+ORD021,2024-05-21,Webcam,10.0,183.47,South,John Doe,unknown@email.com,0.2,1467.7600000000002,5,May,2
+ORD159,2024-04-16,Headphones,6.0,107.39,South,John Doe,customer158@email.com,0.0,644.34,4,April,2
+ORD166,2024-02-16,Keyboard,12.0,345.49,North,Alice Williams,customer165@email.com,0.0,4145.88,2,February,1
+ORD101,2024-08-01,Laptop,11.0,122.13,South,Alice Williams,customer100@email.com,0.28,967.2695999999999,8,August,3
+ORD056,2024-12-25,Mouse,4.0,357.06,South,John Doe,customer55@email.com,0.05,1356.828,12,December,4
+ORD074,2024-03-22,Monitor,7.0,180.65,South,John Doe,unknown@email.com,0.0,1264.55,3,March,1
+ORD124,2024-07-28,Webcam,1.0,306.13,South,Alice Williams,customer123@email.com,0.0,306.13,7,July,3
+ORD129,2024-09-16,Webcam,20.0,446.31,South,Bob Johnson,customer128@email.com,0.01,8836.938,9,September,3
+ORD121,2024-05-10,Monitor,4.0,319.81,East,Bob Johnson,customer120@email.com,0.17,1061.7692,5,May,2
+ORD117,2024-04-22,Laptop,17.0,66.05,South,Alice Williams,customer116@email.com,0.1,1010.5649999999999,4,April,2
+ORD195,2024-04-12,Mouse,17.0,149.95,West,John Doe,customer194@email.com,0.12,2243.2519999999995,4,April,2
+ORD072,2024-06-11,Mouse,15.0,239.92,East,John Doe,customer71@email.com,0.03,3490.836,6,June,2
+ORD041,2024-08-23,Mouse,2.0,66.38,East,John Doe,customer40@email.com,0.18,108.8632,8,August,3
+ORD076,2024-04-10,USB Cable,2.0,307.14,North,Bob Johnson,customer75@email.com,0.0,614.28,4,April,2
+ORD083,2024-07-04,USB Cable,12.0,489.97,North,John Doe,customer82@email.com,0.0,5879.64,7,July,3
+ORD168,2024-02-17,Monitor,10.0,202.08,North,Alice Williams,unknown@email.com,0.0,2020.8000000000002,2,February,1
+ORD145,2024-05-16,Laptop,11.0,481.52,East,Jane Smith,customer144@email.com,0.19,4290.343199999999,5,May,2
+ORD104,2024-12-05,Headphones,4.0,293.24,South,Alice Williams,customer103@email.com,0.0,1172.96,12,December,4
+ORD125,2024-03-22,Mouse,9.0,46.59,North,Jane Smith,customer124@email.com,0.17,348.0273,3,March,1
+ORD026,2024-05-18,USB Cable,7.0,117.26,North,Jane Smith,customer25@email.com,0.23,632.0314000000001,5,May,2
+ORD048,2024-05-01,Keyboard,15.0,134.12,North,Bob Johnson,customer47@email.com,0.2,1609.4400000000003,5,May,2
+ORD200,2024-08-24,Mouse,9.0,423.45,South,John Doe,customer199@email.com,0.0,3811.0499999999997,8,August,3
+ORD155,2024-08-11,Headphones,5.0,204.55,East,John Doe,customer154@email.com,0.28,736.38,8,August,3
+ORD122,2024-02-15,Webcam,19.0,79.46,North,Jane Smith,customer121@email.com,0.11,1343.6685999999997,2,February,1
+ORD040,2024-03-20,Mouse,14.0,199.13,East,Jane Smith,customer39@email.com,0.18,2286.0124,3,March,1
+ORD128,2024-11-29,USB Cable,20.0,293.46,North,Alice Williams,customer127@email.com,0.0,5869.2,11,November,4
+ORD134,2024-12-10,USB Cable,8.0,55.27,North,Bob Johnson,customer133@email.com,0.25,331.62,12,December,4
+ORD162,2024-11-25,USB Cable,1.0,425.95,East,Alice Williams,customer161@email.com,0.0,425.95,11,November,4
+ORD178,2024-09-28,Mouse,20.0,342.76,South,Alice Williams,unknown@email.com,0.0,6855.2,9,September,3
+ORD189,2024-08-24,Webcam,4.0,66.12,North,Bob Johnson,customer188@email.com,0.0,264.48,8,August,3
+ORD146,2024-01-03,Monitor,14.0,70.41,South,John Doe,customer145@email.com,0.03,956.1677999999999,1,January,1
+ORD139,2024-10-24,Mouse,13.0,142.77,South,Bob Johnson,customer138@email.com,0.0,1856.0100000000002,10,October,4
+ORD172,2024-12-05,Monitor,14.0,208.86,East,Alice Williams,unknown@email.com,0.03,2836.3188,12,December,4
+ORD011,2024-10-30,Webcam,4.0,82.55,North,Bob Johnson,customer10@email.com,0.26,244.34799999999998,10,October,4
+ORD037,2024-03-30,Mouse,3.0,145.82,East,Alice Williams,customer36@email.com,0.0,437.46,3,March,1
+ORD061,2024-06-16,Headphones,3.0,315.97,North,Jane Smith,customer60@email.com,0.0,947.9100000000001,6,June,2
+ORD067,2024-04-29,Keyboard,20.0,300.15,West,John Doe,customer66@email.com,0.0,6003.0,4,April,2
+ORD013,2024-04-08,Laptop,12.0,27.62,North,John Doe,customer12@email.com,0.19,268.4664,4,April,2
+ORD002,2024-08-04,Keyboard,6.0,446.25,East,Jane Smith,customer1@email.com,0.25,2008.125,8,August,3
+ORD039,2024-03-21,Monitor,16.0,285.93,North,Jane Smith,customer38@email.com,0.0,4574.88,3,March,1
+ORD047,2024-01-03,Mouse,17.0,333.1,South,John Doe,customer46@email.com,0.26,4190.398,1,January,1
+ORD175,2024-12-10,USB Cable,5.0,342.83,East,John Doe,customer174@email.com,0.16,1439.8859999999997,12,December,4
+ORD031,2024-09-02,Keyboard,17.0,467.63,South,Jane Smith,customer30@email.com,0.0,7949.71,9,September,3
+ORD065,2024-03-10,Webcam,18.0,488.81,East,John Doe,customer64@email.com,0.26,6510.9492,3,March,1
+ORD116,2024-10-30,Headphones,10.0,244.83,East,John Doe,customer115@email.com,0.21,1934.1570000000002,10,October,4
+ORD156,2024-04-21,Webcam,12.0,275.14,East,John Doe,customer155@email.com,0.1,2971.5119999999997,4,April,2
+ORD035,2024-06-13,USB Cable,1.0,176.95,East,Jane Smith,customer34@email.com,0.0,176.95,6,June,2
+ORD197,2024-09-23,USB Cable,11.0,264.11,North,Jane Smith,customer196@email.com,0.0,2905.21,9,September,3
+ORD085,2024-08-30,Monitor,18.0,393.18,West,Jane Smith,unknown@email.com,0.19,5732.5644,8,August,3
+ORD158,2024-03-27,Webcam,17.0,278.64,East,Jane Smith,customer157@email.com,0.0,4736.88,3,March,1
+ORD099,2024-09-07,Monitor,17.0,482.64,West,Bob Johnson,unknown@email.com,0.0,8204.88,9,September,3
+ORD018,2024-11-15,Headphones,11.0,246.86,East,John Doe,customer17@email.com,0.25,2036.595,11,November,4
+ORD073,2024-02-16,Monitor,6.0,173.76,South,Jane Smith,customer72@email.com,0.1,938.304,2,February,1
+ORD179,2024-01-29,Mouse,17.0,438.02,West,John Doe,customer178@email.com,0.12,6552.7792,1,January,1
+ORD057,2024-05-16,Laptop,14.0,62.58,North,John Doe,customer56@email.com,0.0,876.12,5,May,2
+ORD187,2024-04-01,Laptop,14.0,232.94,South,John Doe,customer186@email.com,0.04,3130.7135999999996,4,April,2
+ORD088,2024-01-02,Laptop,18.0,292.0,East,Alice Williams,customer87@email.com,0.0,5256.0,1,January,1
+ORD064,2024-11-29,Mouse,4.0,292.17,South,Jane Smith,customer63@email.com,0.22,911.5704000000001,11,November,4
+ORD102,2024-03-08,Webcam,2.0,322.54,North,John Doe,customer101@email.com,0.0,645.08,3,March,1
+ORD022,2024-10-14,Keyboard,13.0,442.08,West,John Doe,customer21@email.com,0.12,5057.3952,10,October,4
+ORD059,2024-03-13,Monitor,1.0,389.87,East,Alice Williams,customer58@email.com,0.05,370.37649999999996,3,March,1
+ORD110,2024-06-20,Webcam,7.0,499.92,East,John Doe,customer109@email.com,0.22,2729.5632,6,June,2
+ORD096,2024-10-09,Laptop,1.0,493.47,West,John Doe,customer95@email.com,0.0,493.47,10,October,4
+ORD008,2024-05-22,Headphones,16.0,443.84,North,John Doe,customer7@email.com,0.0,7101.44,5,May,2
+ORD071,2024-04-02,Webcam,15.0,35.6,South,Bob Johnson,customer70@email.com,0.0,534.0,4,April,2
+ORD053,2024-07-17,Monitor,4.0,83.78,South,Alice Williams,customer52@email.com,0.15,284.852,7,July,3
+ORD052,2024-07-18,Mouse,11.0,17.28,West,Jane Smith,customer51@email.com,0.0,190.08,7,July,3
+ORD149,2024-09-03,Webcam,19.0,406.19,East,Jane Smith,customer148@email.com,0.1,6945.849,9,September,3
+ORD150,2024-09-14,Laptop,2.0,143.11,East,Jane Smith,customer149@email.com,0.0,286.22,9,September,3
+ORD106,2024-04-07,Webcam,12.0,215.18,West,Jane Smith,customer105@email.com,0.04,2478.8736,4,April,2
+ORD043,2024-12-08,Webcam,19.0,286.21,North,Jane Smith,customer42@email.com,0.21,4296.0121,12,December,4
+ORD133,2024-07-03,Headphones,10.0,490.12,North,Jane Smith,unknown@email.com,0.23,3773.924,7,July,3
+ORD143,2024-09-21,Keyboard,5.0,132.45,North,John Doe,customer142@email.com,0.0,662.25,9,September,3
+ORD030,2024-06-14,Laptop,10.0,223.29,South,Alice Williams,customer29@email.com,0.0,2232.9,6,June,2
+ORD182,2024-10-28,USB Cable,7.0,265.79,North,John Doe,customer181@email.com,0.0,1860.5300000000002,10,October,4
+ORD050,2024-07-30,USB Cable,20.0,426.21,North,Alice Williams,customer49@email.com,0.02,8353.715999999999,7,July,3
+ORD058,2024-08-18,Mouse,7.0,330.68,West,John Doe,customer57@email.com,0.0,2314.76,8,August,3
+ORD161,2024-08-25,USB Cable,3.0,496.71,East,John Doe,customer160@email.com,0.0,1490.1299999999999,8,August,3
+ORD185,2024-03-28,Monitor,6.0,121.75,North,Bob Johnson,unknown@email.com,0.3,511.34999999999997,3,March,1
+ORD142,2024-04-11,Keyboard,9.0,444.76,East,John Doe,customer141@email.com,0.0,4002.84,4,April,2
+ORD092,2024-12-30,Mouse,1.0,390.6,North,John Doe,customer91@email.com,0.02,382.788,12,December,4
+ORD188,2024-06-24,Headphones,3.0,367.32,South,Jane Smith,customer187@email.com,0.22,859.5288,6,June,2
+ORD054,2024-01-11,Laptop,15.0,414.27,North,Bob Johnson,customer53@email.com,0.0,6214.049999999999,1,January,1
+ORD137,2024-04-16,Headphones,5.0,157.86,West,John Doe,customer136@email.com,0.23,607.7610000000001,4,April,2
+ORD173,2024-03-20,Monitor,19.0,310.28,West,John Doe,customer172@email.com,0.0,5895.32,3,March,1
+ORD183,2024-04-05,Monitor,8.0,152.63,West,Jane Smith,customer182@email.com,0.0,1221.04,4,April,2
+ORD084,2024-02-17,Headphones,18.0,166.16,East,Bob Johnson,customer83@email.com,0.0,2990.88,2,February,1
+ORD080,2024-06-13,Webcam,9.0,461.81,East,Jane Smith,customer79@email.com,0.0,4156.29,6,June,2
+ORD033,2024-09-20,Keyboard,17.0,111.1,South,John Doe,customer32@email.com,0.03,1832.0389999999998,9,September,3
+ORD147,2024-08-24,Webcam,14.0,458.8,East,John Doe,customer146@email.com,0.0,6423.2,8,August,3
+ORD086,2024-01-07,USB Cable,3.0,399.7,North,John Doe,customer85@email.com,0.0,1199.1,1,January,1
+ORD180,2024-08-22,Mouse,18.0,59.7,West,Jane Smith,customer179@email.com,0.0,1074.6000000000001,8,August,3
+ORD001,2024-10-17,Keyboard,18.0,238.3,North,Jane Smith,unknown@email.com,0.0,4289.400000000001,10,October,4
+ORD193,2024-03-09,Mouse,3.0,114.83,South,Bob Johnson,customer192@email.com,0.0,344.49,3,March,1
+ORD003,2024-01-10,Mouse,2.0,30.89,South,Alice Williams,customer2@email.com,0.27,45.0994,1,January,1
+ORD138,2024-01-07,Monitor,1.0,338.45,East,John Doe,customer137@email.com,0.0,338.45,1,January,1
+ORD154,2024-03-30,Keyboard,20.0,191.63,South,Bob Johnson,customer153@email.com,0.0,3832.6,3,March,1
+ORD186,2024-06-10,Laptop,2.0,437.47,South,Jane Smith,customer185@email.com,0.03,848.6918000000001,6,June,2
+ORD079,2024-03-19,Webcam,14.0,358.71,West,John Doe,customer78@email.com,0.0,5021.94,3,March,1
+ORD119,2024-04-23,Laptop,18.0,284.94,East,John Doe,customer118@email.com,0.0,5128.92,4,April,2
+ORD051,2024-04-25,Keyboard,9.0,48.33,South,John Doe,customer50@email.com,0.0,434.96999999999997,4,April,2
+ORD009,2024-08-28,Monitor,3.0,25.11,East,Jane Smith,customer8@email.com,0.19,61.017300000000006,8,August,3
+ORD007,2024-02-02,Monitor,7.0,181.79,East,Jane Smith,customer6@email.com,0.11,1132.5517,2,February,1
+ORD169,2024-06-04,Webcam,13.0,348.64,South,Bob Johnson,customer168@email.com,0.05,4305.704,6,June,2
+ORD127,2024-11-08,Monitor,7.0,326.43,South,Jane Smith,customer126@email.com,0.22,1782.3078000000003,11,November,4
+ORD107,2024-07-24,Monitor,4.0,59.13,East,John Doe,customer106@email.com,0.02,231.7896,7,July,3
+ORD181,2024-01-02,Keyboard,3.0,271.77,North,John Doe,unknown@email.com,0.25,611.4825,1,January,1
+ORD103,2024-08-14,Mouse,10.0,164.73,North,Jane Smith,customer102@email.com,0.03,1597.8809999999999,8,August,3
+ORD097,2024-09-15,USB Cable,15.0,476.2,East,Jane Smith,customer96@email.com,0.0,7143.0,9,September,3
+ORD094,2024-06-15,Laptop,16.0,274.98,East,Jane Smith,customer93@email.com,0.17,3651.7344000000003,6,June,2
+ORD114,2024-09-28,Monitor,9.0,354.71,North,John Doe,customer113@email.com,0.17,2649.6836999999996,9,September,3
+ORD105,2024-09-19,Webcam,7.0,366.36,South,John Doe,customer104@email.com,0.26,1897.7448,9,September,3
+ORD034,2024-10-09,Monitor,9.0,78.63,East,Alice Williams,customer33@email.com,0.0,707.67,10,October,4
+ORD112,2024-12-15,Headphones,16.0,168.71,South,Jane Smith,customer111@email.com,0.15,2294.456,12,December,4
+ORD004,2024-01-25,USB Cable,9.0,188.53,North,Jane Smith,customer3@email.com,0.0,1696.77,1,January,1
+ORD032,2024-03-16,Keyboard,3.0,351.33,South,Alice Williams,customer31@email.com,0.2,843.192,3,March,1
+ORD131,2024-05-08,Laptop,16.0,89.15,South,Alice Williams,customer130@email.com,0.01,1412.136,5,May,2
+ORD148,2024-05-09,Webcam,19.0,206.6,South,Jane Smith,customer147@email.com,0.21,3101.0660000000003,5,May,2
+ORD174,2024-10-12,Mouse,8.0,477.76,North,Bob Johnson,customer173@email.com,0.0,3822.08,10,October,4
+ORD049,2024-07-18,Webcam,2.0,379.34,South,John Doe,customer48@email.com,0.0,758.68,7,July,3
+ORD023,2024-07-12,Monitor,1.0,379.33,North,John Doe,customer22@email.com,0.26,280.70419999999996,7,July,3
+ORD192,2024-10-13,Headphones,7.0,185.62,East,Alice Williams,customer191@email.com,0.0,1299.3400000000001,10,October,4
+ORD135,2024-05-22,Mouse,9.0,408.02,North,Bob Johnson,customer134@email.com,0.2,2937.744,5,May,2
+ORD005,2024-11-25,Monitor,14.0,168.44,South,Jane Smith,customer4@email.com,0.28,1697.8751999999997,11,November,4
+ORD120,2024-02-11,Mouse,17.0,74.05,North,John Doe,customer119@email.com,0.16,1057.434,2,February,1
+ORD109,2024-09-08,Keyboard,13.0,364.18,East,John Doe,customer108@email.com,0.0,4734.34,9,September,3
+ORD036,2024-02-29,Webcam,1.0,404.7,East,John Doe,customer35@email.com,0.0,404.7,2,February,1
+ORD062,2024-02-03,Keyboard,3.0,94.93,South,Jane Smith,unknown@email.com,0.0,284.79,2,February,1
+ORD019,2024-10-13,Mouse,9.0,327.99,East,Alice Williams,customer18@email.com,0.0,2951.91,10,October,4
+ORD027,2024-08-11,Laptop,3.0,146.8,West,Jane Smith,unknown@email.com,0.0,440.40000000000003,8,August,3
+ORD014,2024-05-18,Keyboard,12.0,135.51,East,John Doe,customer13@email.com,0.07,1512.2915999999998,5,May,2
+ORD089,2024-04-25,Headphones,19.0,186.32,West,John Doe,customer88@email.com,0.0,3540.08,4,April,2
+ORD038,2024-04-16,Monitor,12.0,393.79,East,John Doe,customer37@email.com,0.0,4725.4800000000005,4,April,2
+ORD111,2024-08-25,Laptop,20.0,410.29,East,Jane Smith,customer110@email.com,0.18,6728.756000000001,8,August,3
+ORD017,2024-12-17,Mouse,14.0,170.26,East,Bob Johnson,customer16@email.com,0.0,2383.64,12,December,4
+ORD118,2024-09-01,Webcam,20.0,323.74,East,Jane Smith,customer117@email.com,0.03,6280.556,9,September,3
+ORD167,2024-10-07,Laptop,6.0,202.76,West,Alice Williams,customer166@email.com,0.05,1155.732,10,October,4
+ORD090,2024-02-17,Headphones,19.0,425.18,North,Bob Johnson,customer89@email.com,0.0,8078.42,2,February,1
+ORD176,2024-01-04,Mouse,10.0,191.14,North,John Doe,customer175@email.com,0.0,1911.3999999999999,1,January,1
+ORD140,2024-02-26,Webcam,17.0,477.9,South,Jane Smith,customer139@email.com,0.03,7880.570999999999,2,February,1
+ORD177,2024-03-23,Webcam,2.0,231.17,East,Jane Smith,customer176@email.com,0.14,397.6124,3,March,1
+ORD024,2024-12-19,USB Cable,3.0,398.45,South,Alice Williams,customer23@email.com,0.23,920.4195,12,December,4
+ORD029,2024-10-04,Headphones,2.0,497.99,North,Jane Smith,customer28@email.com,0.13,866.5026,10,October,4
+ORD130,2024-01-27,Laptop,13.0,148.6,East,John Doe,unknown@email.com,0.27,1410.214,1,January,1
+ORD151,2024-01-21,Monitor,12.0,42.93,East,Jane Smith,customer150@email.com,0.23,396.6732,1,January,1
+ORD095,2024-09-08,Laptop,18.0,132.81,South,Bob Johnson,customer94@email.com,0.0,2390.58,9,September,3
+ORD077,2024-08-11,Mouse,19.0,153.9,South,Bob Johnson,customer76@email.com,0.0,2924.1,8,August,3
+ORD136,2024-11-12,Laptop,19.0,498.22,North,Alice Williams,customer135@email.com,0.09,8614.2238,11,November,4
+ORD157,2024-10-09,Monitor,18.0,368.64,East,Alice Williams,customer156@email.com,0.0,6635.5199999999995,10,October,4
+ORD132,2024-04-15,Monitor,3.0,212.14,East,John Doe,customer131@email.com,0.0,636.42,4,April,2
+ORD020,2024-12-17,Webcam,16.0,307.2,South,John Doe,customer19@email.com,0.0,4915.2,12,December,4
+ORD006,2024-01-28,Monitor,2.0,329.77,North,John Doe,unknown@email.com,0.0,659.54,1,January,1
+ORD098,2024-11-07,Mouse,16.0,332.21,North,Jane Smith,unknown@email.com,0.0,5315.36,11,November,4
+ORD087,2024-08-29,Webcam,12.0,250.54,East,Bob Johnson,customer86@email.com,0.22,2345.0544,8,August,3
+ORD069,2024-06-02,Mouse,18.0,141.9,North,John Doe,customer68@email.com,0.0,2554.2000000000003,6,June,2
+ORD152,2024-10-28,USB Cable,7.0,72.14,North,Jane Smith,customer151@email.com,0.0,504.98,10,October,4
+ORD141,2024-07-03,Headphones,2.0,107.46,South,Jane Smith,customer140@email.com,0.22,167.6376,7,July,3
+ORD184,2024-08-03,Webcam,17.0,379.51,North,Jane Smith,customer183@email.com,0.0,6451.67,8,August,3
+ORD025,2024-12-30,Mouse,11.0,38.61,North,Alice Williams,customer24@email.com,0.0,424.71,12,December,4
+ORD075,2024-05-10,Webcam,13.0,482.66,South,Jane Smith,customer74@email.com,0.28,4517.6975999999995,5,May,2
