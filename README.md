@@ -145,26 +145,26 @@ python clean_and_analyze.py
 
 ### Expected Output
 ```
-📂 Reading messy sales data...
-👀 First 5 rows of data:
+Reading messy sales data...
+First 5 rows of data:
 [Data preview]
 
-📊 Dataset shape: 210 rows, 9 columns
-❌ Missing Values Count (BEFORE cleaning):
+Dataset shape: 210 rows, 9 columns
+Missing Values Count (BEFORE cleaning):
 [Missing value counts]
 
-🧹 STARTING DATA CLEANING...
-✅ Missing Values Count (AFTER cleaning):
+STARTING DATA CLEANING...
+Missing Values Count (AFTER cleaning):
 [Clean data confirmation]
 
-📊 DATA ANALYSIS
-💰 Total Revenue: $427,473.64
-🌍 Top Region: East with $140,435.97
-📦 Top Product: Webcam with $106,359.99
-📅 Best Month: September
+DATA ANALYSIS
+Total Revenue: $427,473.64
+Top Region: East with $140,435.97
+Top Product: Webcam with $106,359.99
+Best Month: September
 
-💾 EXPORTING CLEAN DATA
-✅ Saved to: output/clean_sales_data.csv
+EXPORTING CLEAN DATA
+Saved to: output/clean_sales_data.csv
 ```
 
 ---
@@ -522,5 +522,5 @@ This project is for educational purposes as part of the Moringa AI Capstone Proj
 
 ---
 
-**Built with 🐼 Pandas and 🤖 AI in 4 days!**
-**Happy Coding 🐼!**
+**Built with 🐼 Pandas and 🤖 AI!**
+## **Happy Coding 🐼!**
