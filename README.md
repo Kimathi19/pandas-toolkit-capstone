@@ -18,7 +18,7 @@ This project demonstrates how to use **Pandas**, Python's most powerful data man
 
 ---
 
-## 🤔 Why Pandas?
+## Why Pandas?
 
 I chose Pandas because:
 
@@ -181,7 +181,7 @@ Throughout this project, I used Claude (AI assistant) to learn Pandas. Here are 
 Claude explained `pd.read_csv()`, DataFrame concept, and `.head()` method for previewing data.
 
 **My Evaluation:**  
-⭐⭐⭐⭐⭐ Very helpful! Clear explanation with code examples. I learned that DataFrames are like Excel tables in Python.
+Very helpful! Clear explanation with code examples. I learned that DataFrames are like Excel tables in Python.
 
 **Code Learned:**
 ```python
@@ -200,7 +200,7 @@ print(df.head())
 Claude introduced `.info()`, `.describe()`, and `.isnull().sum()` methods for data profiling.
 
 **My Evaluation:**  
-⭐⭐⭐⭐⭐ Essential for understanding data quality issues. Helped me identify which columns had problems.
+ Essential for understanding data quality issues. Helped me identify which columns had problems.
 
 **Code Learned:**
 ```python
@@ -219,7 +219,7 @@ df.describe()  # Statistical summary
 Claude explained three strategies: dropping with `.dropna()`, filling with `.fillna()`, and keeping them. Context matters - critical columns should be dropped, optional columns can be filled.
 
 **My Evaluation:**  
-⭐⭐⭐⭐⭐ This was crucial! I learned that missing values require different strategies depending on what the column represents.
+This was crucial! I learned that missing values require different strategies depending on what the column represents.
 
 **Code Learned:**
 ```python
@@ -237,7 +237,7 @@ df = df.dropna(subset=['Order_ID', 'Date'])  # Drop critical nulls
 Claude showed `.drop_duplicates()` for removing exact duplicate rows and `.str.title()`, `.str.lower()`, `.str.upper()` for standardizing text.
 
 **My Evaluation:**  
-⭐⭐⭐⭐⭐ Perfect timing! My data had "NORTH", "north", "North" all meaning the same thing.
+Perfect timing! My data had "NORTH", "north", "North" all meaning the same thing.
 
 **Code Learned:**
 ```python
@@ -255,7 +255,7 @@ df['Region'] = df['Region'].str.strip().str.title()
 Claude explained `pd.to_datetime()` and why datetime format enables time-based analysis (extracting months, filtering date ranges, proper sorting).
 
 **My Evaluation:**  
-⭐⭐⭐⭐⭐ Eye-opening! I didn't realize text dates can't be analyzed properly.
+ Eye-opening! I didn't realize text dates can't be analyzed properly.
 
 **Code Learned:**
 ```python
@@ -273,7 +273,7 @@ df['Month'] = df['Date'].dt.month
 Claude showed how to create new columns by assigning calculations to a new column name.
 
 **My Evaluation:**  
-⭐⭐⭐⭐⭐ Simple but powerful! This is how you derive business metrics.
+Simple but powerful! This is how you derive business metrics.
 
 **Code Learned:**
 ```python
@@ -290,7 +290,7 @@ df['Total_Sales'] = df['Quantity'] * df['Unit_Price'] * (1 - df['Discount'])
 Claude explained `.groupby()` for splitting data by categories and aggregating with `.sum()`, `.mean()`, `.count()`, etc.
 
 **My Evaluation:**  
-⭐⭐⭐⭐⭐ This is where Pandas really shines! GroupBy is incredibly powerful for analysis.
+This is where Pandas really shines! GroupBy is incredibly powerful for analysis.
 
 **Code Learned:**
 ```python
@@ -308,7 +308,7 @@ sales_by_product = df.groupby('Product')['Total_Sales'].sum()
 Claude showed how to extract time components with `.dt.month`, `.dt.month_name()`, `.dt.quarter()` and group by them.
 
 **My Evaluation:**  
-⭐⭐⭐⭐⭐ Perfect for finding seasonal trends and patterns!
+Perfect for finding seasonal trends and patterns!
 
 **Code Learned:**
 ```python
@@ -326,7 +326,7 @@ monthly_sales = df.groupby('Month_Name')['Total_Sales'].sum()
 Claude explained `.to_csv()` with `index=False` to avoid exporting row numbers.
 
 **My Evaluation:**  
-⭐⭐⭐⭐⭐ Essential for sharing results and creating deliverables!
+Essential for sharing results and creating deliverables!
 
 **Code Learned:**
 ```python
